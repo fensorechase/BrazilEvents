@@ -2,7 +2,6 @@
 
 from bs4 import BeautifulSoup
 import requests
-import json
 import re
 import csv
 import urllib3
