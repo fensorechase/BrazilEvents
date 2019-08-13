@@ -14,11 +14,11 @@ pip install BrazilEvents
 ## Usage
 
 ```python
-**import BrazilEvents**
-**webscraper_2.py**
+import BrazilEvents
+webscraper_2.py
 
-Enter file name ex. brazilEvents.csv (n to quit): **brazilEvents.csv**
-Enter full event URL (n to quit): **http://www.calendariodoagronegocio.com.br/Evento/visualizar/portugues/3226**
+Enter file name ex. brazilEvents.csv (n to quit): brazilEvents.csv
+Enter full event URL (n to quit): http://www.calendariodoagronegocio.com.br/Evento/visualizar/portugues/3226
 
 ```
 
