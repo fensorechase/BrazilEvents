@@ -1,6 +1,6 @@
 # webscraper_2.py
 
-BrazilEvents is a Python program for scraping and export event data to a .csv file.
+BrazilEvents is a Python script for scraping and export event data to a .csv file.
 
 ## Installation
 
